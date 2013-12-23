@@ -1,0 +1,2 @@
+(A) create a little circuit diagram as to where the connections go @andres probably *.svg
+
