@@ -1,0 +1,36 @@
+
+
+Andres proposed answers to Ian's questions.
+
+I: Where in Ham/Kingston is there a plot that needs automatic irrigation?
+
+A: there is plans for a new community alotment and there are raised beds in Ham Close by Ashburnham Road. But to start there are plenty of plants at little House and Briany provided a couple of pots with beans.
+
+I: How much water must be stored?
+A: Anything from the half bottle to the 5 litre paint buckets. maybe an array of them.
+
+I: How long between human visits?
+this is, of course, related. frequency we should aim for is weekends. if we can longer periods of time if rain water can fill the bucket.
+
+I: What will be the power source? Mains, battery, solar?
+
+A: In order to get the project off the ground: first mains, then battery, then battery carge via energy harvesting of any sort, lastly supercapacitor with energy harvesting?
+
+I: How will the water be distributed, after the stop valve? Will this be small-bore pipe with multiple outlets, or a single hose?
+A: if hose the open and close needs to be quick. initial idea was a bike inner tube with holes. it all depends on the size of the plot of land.
+
+I: Does the soil need multiple moisture sensors or just one?
+A: At the beggining just one, later several to make an average and later sensors paired with servos to irrigate diffferent plots of land.
+
+I: How does conductivity of the sensor vary with soil moisture?
+A: At the moment it is a simple potentiometer 0 for open circuit and 1023 for low resistance of unknown value. The idea was to have several pots with different humidity and have someone like Bryny (our resident garden expert) asses what qualifies as dry ir wet.
+
+I: How deep are the roots and should the sensor be at the surface or deeper down?
+
+A: I guess it depends of the plant but classically moister is measured by touching the surface with the back of the hand.
+
+I: How many plantduinos would be fitted? One or many? What plans are there for weatherproofing and vandal-proofing?
+
+A: one then as many as needed along HUG’s garden projects.
+tupperware boxes and goid faith from neighbours and recomendations from local police.
+
